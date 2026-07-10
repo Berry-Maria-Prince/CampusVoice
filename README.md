@@ -452,23 +452,6 @@ Click the 🌙/☀️ toggle button in the top-right navbar. The preference is s
 
 ---
 
-## 🚧 Future Enhancements
-
-- [ ] **File Attachments** — Allow students to upload images/documents with complaints
-- [ ] **Real-Time Updates** — Integrate WebSockets (Socket.io) for live notifications without polling
-- [ ] **Password Reset** — Forgot password flow with email verification
-- [ ] **Admin Analytics Export** — Download complaint reports as CSV/PDF
-- [ ] **Comment Thread** — Allow admin-student conversation on a complaint
-- [ ] **Profile Editing** — Update name, password, and profile picture
-- [ ] **Complaint Escalation** — Auto-escalate unresolved complaints after a set duration
-- [ ] **Search** — Full-text search across complaint titles and descriptions
-- [ ] **Pagination** — Server-side pagination for large complaint datasets
-- [ ] **Email Notifications on Status Change** — Notify on all status transitions, not just "Resolved"
-- [ ] **Mobile Responsive Sidebar** — Hamburger menu for mobile viewports
-- [ ] **Audit Log** — Track all status changes with timestamps and admin identity
-
----
-
 ## 👥 Contributors
 
 1.Berry Maria Prince
