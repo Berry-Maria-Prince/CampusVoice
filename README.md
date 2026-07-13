@@ -29,7 +29,6 @@
 - [API Endpoints](#-api-endpoints)
 - [Usage Instructions](#-usage-instructions)
 - [Screenshots](#-screenshots)
-- [Future Enhancements](#-future-enhancements)
 - [Contributors](#-contributors)
 - [License](#-license)
 
