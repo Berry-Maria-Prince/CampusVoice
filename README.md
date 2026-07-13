@@ -416,7 +416,7 @@ Click the 🌙/☀️ toggle button in the top-right navbar. The preference is s
 ## 📸 Screenshots
 
 ### Login Page
-<!-- ![Login Page](./screenshots/login.png) -->
+<!-- ![Login Page](screenshots/login.png) -->
 
 
 ### Student Dashboard
