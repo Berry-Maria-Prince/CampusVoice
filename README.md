@@ -415,39 +415,37 @@ Click the 🌙/☀️ toggle button in the top-right navbar. The preference is s
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with actual screenshots of your running application.
-
 ### Login Page
 <!-- ![Login Page](./screenshots/login.png) -->
-`📷 Screenshot: Login / Register page with role selection`
+
 
 ### Student Dashboard
 <!-- ![Student Dashboard](./screenshots/student-dashboard.png) -->
-`📷 Screenshot: Student dashboard with stat cards, priority cards, and charts`
+
 
 ### Admin Dashboard
 <!-- ![Admin Dashboard](./screenshots/admin-dashboard.png) -->
-`📷 Screenshot: Admin dashboard with campus-wide analytics`
+
 
 ### New Complaint Form
 <!-- ![New Complaint](./screenshots/new-complaint.png) -->
-`📷 Screenshot: Complaint submission form with priority selection`
+
 
 ### Complaint History (with Filters)
-<!-- ![History](./screenshots/history.png) -->
-`📷 Screenshot: Filterable complaint history page`
+<!-- ![History](./screenshots/complaint-history.png) -->
+
 
 ### In-App Notifications
-<!-- ![Notifications](./screenshots/notifications.png) -->
-`📷 Screenshot: Notification bell with unread badge and dropdown`
+<!-- ![Notifications](./screenshots/notification.png) -->
+
 
 ### Admin Feedback Management
-<!-- ![Feedback](./screenshots/feedback-admin.png) -->
-`📷 Screenshot: Admin view — student feedback table`
+<!-- ![Feedback](./screenshots/admin-feedback.png) -->
+
 
 ### Dark Mode
-<!-- ![Dark Mode](./screenshots/dark-mode.png) -->
-`📷 Screenshot: Dashboard in dark mode`
+<!-- ![Dark Mode](./screenshots/darkmode.png) -->
+
 
 ---
 
