@@ -416,35 +416,35 @@ Click the 🌙/☀️ toggle button in the top-right navbar. The preference is s
 ## 📸 Screenshots
 
 ### Login Page
-<!-- ![Login Page](screenshots/login.png) -->
+ ![Login Page](screenshots/login.png) 
 
 
 ### Student Dashboard
-<!-- ![Student Dashboard](./screenshots/student-dashboard.png) -->
+![Student Dashboard](./screenshots/student-dashboard.png) 
 
 
 ### Admin Dashboard
-<!-- ![Admin Dashboard](./screenshots/admin-dashboard.png) -->
+ ![Admin Dashboard](./screenshots/admin-dashboard.png) 
 
 
 ### New Complaint Form
-<!-- ![New Complaint](./screenshots/new-complaint.png) -->
+ ![New Complaint](./screenshots/new-complaint.png) 
 
 
 ### Complaint History (with Filters)
-<!-- ![History](./screenshots/complaint-history.png) -->
+ ![History](./screenshots/complaint-history.png) 
 
 
 ### In-App Notifications
-<!-- ![Notifications](./screenshots/notification.png) -->
+ ![Notifications](./screenshots/notification.png) 
 
 
 ### Admin Feedback Management
-<!-- ![Feedback](./screenshots/admin-feedback.png) -->
+ ![Feedback](./screenshots/admin-feedback.png) 
 
 
 ### Dark Mode
-<!-- ![Dark Mode](./screenshots/darkmode.png) -->
+ ![Dark Mode](./screenshots/darkmode.png) 
 
 
 ---
