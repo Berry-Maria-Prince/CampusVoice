@@ -18,7 +18,7 @@
 ----
 ## 🚀 Live Demo
 🌍 https://campus-voice-ict.vercel.app
-🌍 campusvoice.azak.in
+🌍 https://campusvoice.azak.in/
 
 ## 📋 Table of Contents
 
